@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    max-width: 50rem;
+    text-align: center;
+    margin: auto;
+    padding: 2em;
+}
